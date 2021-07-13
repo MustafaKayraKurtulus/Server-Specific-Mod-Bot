@@ -1,7 +1,7 @@
 Selams ? 👋
 
 Paylaştığım bu altyapı sunucuya özel olmaktadır, eğer ilgi görürse çok daha gelişmişini paylaşacağım. 
-Kodların iiçinde teker teker yazdım açıklamalarını, eğer bir sorun olursa veya hata alırsanız => Discord: Vitraxdev ⌔#0666
+Kodların içinde teker teker yazdım açıklamalarını, eğer bir sorun olursa veya hata alırsanız => Discord: Vitraxdev ⌔#0666
 Bana ulaşabilirsiniz!
 
 1 • Eğer hatanız; Cannot find module 'blabla' şeklindeyse modül kurmanız gerekmektedir. Modül kurmak için konsolu açıp npm i blabla yazınız. Glitch kullanıyorsanız basit kurulum yolu; 1 • Package.json'a girin. 2 • Yukarıdan Add Package basın. 3 • İnmesi gereken paket ismini yazın ve çıkana basın. başarılı!
